@@ -1,1 +1,4 @@
-# 10Pin-Vr-Bowling
+# Vr Bowling
+
+
+Github page for issue tracking
